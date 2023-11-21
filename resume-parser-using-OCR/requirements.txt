@@ -1,0 +1,11 @@
+numpy
+scikit-learn
+opencv-python
+pillow
+matplotlib
+pdf2image
+roboflow
+ultralytics
+pytesseract
+easyocr
+pdfplumber
