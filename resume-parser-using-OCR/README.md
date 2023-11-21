@@ -1,6 +1,6 @@
 # Resume Parser using OCR
 
-To extract relavent information from resumes.
+To extract text data from resumes and extracting relevant information.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
